@@ -1,5 +1,5 @@
 {
-    "version": "0.16.2",
+    "version": "0.16.3",
     "description": "NSClient++ (NSCP) - simple, secure and powerful monitoring agent for Windows.",
     "homepage": "https://nsclient.org/",
     "license": "GPL-2.0-or-later",
@@ -17,12 +17,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mickem/nscp/releases/download/0.16.2/NSCP-0.16.2-x64.zip",
-            "hash": "BD91BD1EB9A32F6FF666168FA153BEDE1E26BBAAC41EB3BEB34B11C9515160A2"
+            "url": "https://github.com/mickem/nscp/releases/download/0.16.3/NSCP-0.16.3-x64.zip",
+            "hash": "C5A75F3E99EC14AB05F87B5786B45D17A16E54911E77EE9CB5E5D9A1D24530DA"
         },
         "32bit": {
-            "url": "https://github.com/mickem/nscp/releases/download/0.16.2/NSCP-0.16.2-Win32.zip",
-            "hash": "FA32B46A7826753D241069B75F413F85277197D6B8AED42EAEFAC60CBEC165B7"
+            "url": "https://github.com/mickem/nscp/releases/download/0.16.3/NSCP-0.16.3-Win32.zip",
+            "hash": "BAE391918BD04A0BC7287CB3C1AC687DCFFBA7BF891CB7ACDF58C2773C575C6A"
         }
     },
     "bin": [
